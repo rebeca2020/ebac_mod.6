@@ -1,0 +1,27 @@
+2)Algoritmo detalhado da hora de acordar:
+	
+	-Ao acordar, abrir os olhos;
+	-Olhar o celular;
+	-Conferir as horas;
+	-Levantar da cama;
+	-Acender a luz;
+	-Ir ao banheiro;
+	-Escovar os destes;
+	-Lavar o rosto;
+	-Sair do banheiro;
+	-Se for tomar café;
+		1-Ir para a cozinha;
+		2-Ligar a máquina de café;
+		3-Colocar o pó na máquina;
+		4-Esperar ficar pronto;
+		5-Pegar o copo;
+		6-Pegar o recipiente do café;
+		7-colocar o café no copo;
+		8-Tomar o café;
+	-Se não tomar café;
+		1-Ir para a mesa;
+		2-Abrir o computador;
+		3-Trabalhar;
+	-Se não trabalhar;
+		1-Ir a academia ou estudar;
+	
